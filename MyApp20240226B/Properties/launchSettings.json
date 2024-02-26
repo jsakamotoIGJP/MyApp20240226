@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "MyApp20240226": {
+    "MyApp20240226B": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
