@@ -17,7 +17,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <ProjectReference Include="..\MyApp20240226\MyApp20240226.csproj" />
+    <ProjectReference Include="..\MyApp20240226B\MyApp20240226B.csproj" />
     <PackageReference Include="coverlet.collector" Version="6.0.0">
     <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     <PrivateAssets>all</PrivateAssets>

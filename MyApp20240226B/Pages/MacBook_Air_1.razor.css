@@ -32,7 +32,7 @@
     gap: 1rem;
     overflow: hidden;
 }
-.custom-navbar {
+.navbar {
     color: #000000FF;
     background-color: hsla(var(--ig-primary-500));
     position: relative;
@@ -51,7 +51,7 @@
     margin: 0;
     flex-shrink: 0;
 }
-.my-icon {
+.icon_1 {
     --size: 24px;
     font-size: 24px;
     width: 24px;

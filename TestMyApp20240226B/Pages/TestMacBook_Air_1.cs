@@ -1,10 +1,10 @@
 using Bunit;
 using Microsoft.Extensions.DependencyInjection;
-using MyApp20240226.Pages;
+using MyApp20240226B.Pages;
 
-namespace TestMyApp20240226
+namespace TestMyApp20240226B
 {
-	[Collection("MyApp20240226")]
+	[Collection("MyApp20240226B")]
 	public class TestMacBook_Air_1
 	{
 		[Fact]

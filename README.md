@@ -1,4 +1,4 @@
-# MyApp20240226
+# MyApp20240226B
 
 This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
 

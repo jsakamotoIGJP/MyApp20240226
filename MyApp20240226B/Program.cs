@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using MyApp20240226;
+using MyApp20240226B;
 using IgniteUI.Blazor.Controls;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
